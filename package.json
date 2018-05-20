@@ -1,0 +1,24 @@
+{
+  "name": "george-greene",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgegreener/george-greene.git"
+  },
+  "author": "George Greene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgegreener/george-greene/issues"
+  },
+  "homepage": "https://github.com/georgegreener/george-greene#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
